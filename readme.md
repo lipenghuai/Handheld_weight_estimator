@@ -5,9 +5,7 @@
 '''Algorithm Flow
 
 
-
 Reproduction steps
-
 1. tools/a_Generatetrainingandtestsetdirectories
 2. tools/b_seg_rgb_pointcloud
 3. tools/c_trainaepointcloud
