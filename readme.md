@@ -11,5 +11,5 @@ Reproduction steps
 3. train.py trainaepointcloud
 4. train_weight_regressor_flex1_r2_bestonly.py trainregressors
 
-data
-Download link(rgb and pointcloud):
+Data
+Download Link(RGB and pointcloud):
