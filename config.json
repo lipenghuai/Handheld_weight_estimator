@@ -1,0 +1,12 @@
+{
+    "folder_dir": "/Users/elviskimara/Downloads/PointNET Baseline/data/B73-selected",
+    "show_loaded_pointclouds": "True",
+    "train_dim": 128,
+    "test_dims": [64, 128, 256, 512, 1024, 2048],
+    "min_points": "",
+    "epochs": 400,
+    "lr": 0.001,
+    "visualize_every_n_epochs": 50,
+    "visualize_training": "True",
+    "test_pointcloud_path": "/Users/elviskimara/Downloads/PointNET Baseline/data/B73-selected/plant2.ply"
+}

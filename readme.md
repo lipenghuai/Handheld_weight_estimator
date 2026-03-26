@@ -1,0 +1,15 @@
+# Handheld RGB-D-based weight estimation of finishing pigs in commercial pig houses
+
+![算法流程](D:\lip\paper\Handheld_weight_estimator\model\pointNET-AE-main\Handheld_weight_estimator\pics\算法流程.png)
+
+Algorithm Flow
+
+
+
+Reproduction steps
+
+1. tools/a_Generatetrainingandtestsetdirectories
+2. tools/b_seg_rgb_pointcloud
+3. tools/c_trainaepointcloud
+4. tools/d_regressors
+
