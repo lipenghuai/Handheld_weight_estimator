@@ -1,6 +1,6 @@
 # Handheld RGB-D-based weight estimation of finishing pigs in commercial pig houses
 
-![算法流程](./pics/算法流程.png)
+![算法流程](./pics/算法流程修改后.png)
 
 '''Algorithm Flow
 
